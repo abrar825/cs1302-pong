@@ -1,0 +1,76 @@
+cs1302-omega:
+total 72
+-rw-r--r--. 1 myid  9989 Dec  4 21:55 APPENDIX_API.rst
+-rw-r--r--. 1 myid  3049 Dec  4 21:55 APPENDIX_GAME.rst
+-rw-r--r--. 1 myid  4205 Dec  4 21:55 APPENDIX_GIT.rst
+-rwxr-xr-x. 1 myid   197 Dec  4 21:55 compile.sh
+drwxr-xr-x. 2 myid    59 Dec 15 16:26 meta
+-rw-r--r--. 1 myid  7299 Dec  4 21:55 pom.xml
+-rwxr-xr-x. 1 myid   105 Dec  4 21:55 prepare-merge.sh
+-rw-r--r--. 1 myid 28649 Dec  4 21:55 README.rst
+-rw-r--r--. 1 myid     0 Dec 15 16:29 rec10996
+drwxr-xr-x. 3 myid   117 Dec  4 21:55 resources
+-rwxr-xr-x. 1 myid   271 Dec  4 21:55 site.sh
+drwxr-xr-x. 4 myid    42 Dec  4 21:55 src
+
+cs1302-omega/meta:
+total 8
+-rw-r--r--. 1 myid  509 Dec  4 21:55 ATTRIBUTION.md
+-rw-r--r--. 1 myid 1276 Dec 15 16:26 DEADLINE.md
+
+cs1302-omega/resources:
+total 2084
+-rw-r--r--. 1 myid      41 Dec  4 21:55 config.properties
+-rw-r--r--. 1 myid  582183 Dec  4 21:55 readme-banner.png
+-rw-r--r--. 1 myid 1540930 Dec  4 21:55 readme-newrepo.png
+drwxr-xr-x. 2 myid      34 Dec  4 21:55 sprites
+
+cs1302-omega/resources/sprites:
+total 4
+-rw-r--r--. 1 myid 781 Dec  4 21:55 cat_idle.gif
+
+cs1302-omega/src:
+total 0
+drwxr-xr-x. 3 myid 26 Dec  4 21:55 main
+drwxr-xr-x. 3 myid 50 Dec  4 21:55 site
+
+cs1302-omega/src/main:
+total 0
+drwxr-xr-x. 3 myid 56 Dec  4 21:55 java
+
+cs1302-omega/src/main/java:
+total 4
+drwxr-xr-x. 5 myid  58 Dec  4 21:55 cs1302
+-rw-r--r--. 1 myid 313 Dec  4 21:55 module-info.java
+
+cs1302-omega/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 103 Dec  4 21:55 api
+drwxr-xr-x. 2 myid  56 Dec 15 16:11 game
+drwxr-xr-x. 2 myid  63 Dec 11 23:26 omega
+
+cs1302-omega/src/main/java/cs1302/api:
+total 16
+-rw-r--r--. 1 myid 3294 Dec  4 21:55 OpenLibrarySearchApi.java
+-rw-r--r--. 1 myid 1670 Dec  4 21:55 PropertiesExample.java
+-rw-r--r--. 1 myid 5750 Dec  4 21:55 Tools.java
+
+cs1302-omega/src/main/java/cs1302/game:
+total 16
+-rw-r--r--. 1 myid 5248 Dec  4 21:55 Game.java
+-rw-r--r--. 1 myid 7816 Dec 15 16:11 PongGame.java
+
+cs1302-omega/src/main/java/cs1302/omega:
+total 8
+-rw-r--r--. 1 myid 1184 Dec 11 23:26 OmegaApp.java
+-rw-r--r--. 1 myid 1295 Dec  4 21:55 OmegaDriver.java
+
+cs1302-omega/src/site:
+total 4
+drwxr-xr-x. 2 myid  33 Dec  4 21:55 markdown
+-rw-r--r--. 1 myid 424 Dec  4 21:55 site.xml
+
+cs1302-omega/src/site/markdown:
+total 4
+-rw-r--r--. 1 myid 133 Dec  4 21:55 index.md.vm
+/home/myid/amc38934/cs1302-omega:/home/myid/csci-1302
